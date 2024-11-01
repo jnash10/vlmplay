@@ -1,0 +1,206 @@
+[
+  {
+    "timestamp": "2024-10-30T18:36:06.373387",
+    "directory_name": "good",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/drive1.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is solid and balanced, with his feet shoulder-width apart and knees slightly bent. This provides a good base for generating power and control.\n\n2) Shot quality: The shot quality is high. The player has good hand-eye coordination, as evidenced by the timing and follow-through of the swing. The bat is well-contacted with the ball, indicating good technique.\n\n3) Weight transfer through the shot: The weight transfer is smooth and efficient. The player's body weight shifts from the back foot to the front foot as he drives the ball, which helps to generate power and momentum. The follow-through is also smooth, with the front leg leading and the back leg trailing, showing a complete and balanced swing.\n\nOverall, the player demonstrates good technique and control in both stance and shot quality, with a smooth and efficient weight transfer through the shot."
+  },
+  {
+    "timestamp": "2024-10-30T18:36:12.826951",
+    "directory_name": "good",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/frontfoot1.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is relatively good, with his feet shoulder-width apart and knees slightly bent. However, the position of the bat and the follow-through could be improved for better balance and power.\n\n2) Shot quality: The shot quality appears to be decent, with the player attempting to hit the ball with a full swing. However, the follow-through and the follow-through position of the bat could be more controlled to ensure better contact with the ball.\n\n3) Weight transfer through the shot: The player's weight transfer through the shot is not optimal. He seems to be shifting his weight too quickly, which could lead to a loss of balance and power. A smoother and more controlled weight transfer would be beneficial for a more effective shot."
+  },
+  {
+    "timestamp": "2024-10-30T18:36:20.133298",
+    "directory_name": "good",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/backfoot1.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is relatively good, with his feet shoulder-width apart and knees slightly bent. However, the weight appears to be more on the back foot rather than evenly distributed between the front and back foot, which could affect balance and power.\n\n2) Shot quality: The shot quality is average. The player appears to have made contact with the ball, but the follow-through is not as smooth as it could be. The player's body is not fully rotated, which might indicate a lack of power and control.\n\n3) Weight transfer through the shot: The weight transfer through the shot is not optimal. The player's weight seems to be more on the back foot rather than transferring smoothly to the front foot. This could lead to a less powerful and less controlled shot."
+  },
+  {
+    "timestamp": "2024-10-30T18:36:26.093198",
+    "directory_name": "good",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/drive3.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is relatively good, with his feet shoulder-width apart and knees slightly bent. He appears to be in a ready position to hit the ball.\n\n2) Shot quality: The shot quality is moderate. The player seems to have a good grip on the bat and is in the correct position to hit the ball. However, the follow-through could be improved for better control and power.\n\n3) Weight transfer through the shot: The weight transfer through the shot is adequate. The player appears to shift his weight forward as he swings the bat, which is essential for generating power and control. However, there is room for improvement in terms of fluidity and efficiency in the transfer."
+  },
+  {
+    "timestamp": "2024-10-30T18:36:32.662670",
+    "directory_name": "good",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/backfoot2.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance appears to be balanced and ready to hit the ball. The feet are shoulder-width apart, and the knees are slightly bent, which is a good position for generating power and control.\n\n2) Shot quality: The shot quality seems to be good. The player has made contact with the ball, and the follow-through indicates that the shot was well-executed. The ball is seen flying through the air, suggesting that the player has hit it with authority.\n\n3) Weight transfer through the shot: The weight transfer through the shot appears to be effective. The player's body weight has shifted from the back foot to the front foot, which is essential for generating power and maintaining balance. The follow-through shows that the player has completed the shot with a smooth and controlled motion.\n\nOverall, the player's technique and execution of the shot look impressive."
+  },
+  {
+    "timestamp": "2024-10-30T18:37:45.578302",
+    "directory_name": "good",
+    "maxp": "1080 * 1920",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/drive1.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is solid and balanced, with feet shoulder-width apart and knees slightly bent. This provides a good base for generating power and control.\n\n2) Shot quality: The shot quality appears to be high. The player's body is rotated well, and the bat is swung with authority, indicating good technique and timing.\n\n3) Weight transfer through the shot: The weight transfer is smooth and efficient. The player's weight shifts from the back foot to the front foot as the bat is swung, demonstrating good coordination and power transfer.\n\nOverall, the player's technique and execution of the shot are impressive."
+  },
+  {
+    "timestamp": "2024-10-30T18:37:52.394094",
+    "directory_name": "good",
+    "maxp": "1080 * 1920",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/frontfoot1.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is relatively good, with his feet shoulder-width apart and knees slightly bent. He appears to be in a ready position to hit the ball.\n\n2) Shot quality: The shot quality is decent. The player has a good grip on the bat and seems to be in the correct position to execute a shot. However, the follow-through could be improved for better balance and power.\n\n3) Weight transfer through the shot: The weight transfer through the shot is adequate. The player appears to shift his weight forward as he swings the bat, which is essential for generating power. However, there is room for improvement in terms of fluidity and efficiency in the transfer of weight."
+  },
+  {
+    "timestamp": "2024-10-30T18:38:00.586630",
+    "directory_name": "good",
+    "maxp": "1080 * 1920",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/backfoot1.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is relatively good, with his feet shoulder-width apart and knees slightly bent. However, the weight appears to be more on the back foot rather than evenly distributed between the front and back foot, which could affect balance and power.\n\n2) Shot quality: The shot quality is moderate. The player has made contact with the ball, but the follow-through is not as smooth as it could be. The bat is not fully extended, and the player's body is not fully rotated, which could result in less power and control.\n\n3) Weight transfer through the shot: The weight transfer through the shot is not optimal. The player's weight appears to be more on the back foot, which could limit the power and speed of the shot. A better weight transfer would involve shifting the weight forward through the shot to generate more power and control."
+  },
+  {
+    "timestamp": "2024-10-30T18:38:06.954078",
+    "directory_name": "good",
+    "maxp": "1080 * 1920",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/drive3.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is relatively good, with his feet shoulder-width apart and knees slightly bent. He appears to be in a ready position to hit the ball.\n\n2) Shot quality: The shot quality is moderate. The player seems to have a good grip on the bat and is in the correct position to hit the ball. However, the follow-through could be improved for better control and power.\n\n3) Weight transfer through the shot: The weight transfer through the shot is adequate. The player appears to shift his weight forward as he swings the bat, which is essential for generating power and control. However, there is room for improvement in terms of fluidity and efficiency in the transfer."
+  },
+  {
+    "timestamp": "2024-10-30T18:38:14.476096",
+    "directory_name": "good",
+    "maxp": "1080 * 1920",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "video_path": "good/backfoot2.mp4",
+    "text_prompt": "Given this video of a cricket player, rate the: 1)stance 2)shot quality 3)weight transfer through the shot",
+    "llm_response": "1) Stance: The player's stance is relatively good, with his feet shoulder-width apart and knees slightly bent. He appears to be in a balanced position, ready to react to the ball.\n\n2) Shot quality: The shot quality is decent. The player has made contact with the ball, and the follow-through suggests that he has generated some power. However, the ball is not hit with the maximum possible distance, indicating that there might be room for improvement in terms of technique and timing.\n\n3) Weight transfer through the shot: The player's weight transfer is adequate. He appears to have shifted his weight forward as he hits the ball, which is essential for generating power and maintaining balance. However, the follow-through could be more pronounced to ensure a complete transfer of weight and momentum.\n\nOverall, the player demonstrates a good understanding of the basics of batting, but there is potential for improvement in terms of shot quality and weight transfer."
+  },
+  {
+    "timestamp": "2024-10-31T13:34:19.999472",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/frontfoot4.mp4",
+      "prompt": "Given this video of a cricket player, rate the shot quality (Good/Bad)"
+    },
+    "llm_response": "The shot quality in the video is Good. The player is clearly visible, and the action is captured in detail. The netting in the foreground adds depth to the image, and the background provides context without distracting from the main subject. The lighting is also well-balanced, highlighting the player's movements."
+  },
+  {
+    "timestamp": "2024-10-31T13:34:23.120858",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/frontfoot2.mp4",
+      "prompt": "Given this video of a cricket player, rate the shot quality (Good/Bad)"
+    },
+    "llm_response": "The shot quality in the video appears to be good. The player is hitting the ball with a well-timed swing, and the ball is seen moving in the direction of the bat. The timing and follow-through suggest that the player has good control and technique."
+  },
+  {
+    "timestamp": "2024-10-31T13:34:26.452722",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/drive2.mp4",
+      "prompt": "Given this video of a cricket player, rate the shot quality (Good/Bad)"
+    },
+    "llm_response": "The shot quality in the video is Good. The player is captured in mid-air, demonstrating good timing and technique. The background is clear, and the lighting is appropriate, making the shot visually appealing and informative."
+  },
+  {
+    "timestamp": "2024-10-31T13:34:29.393609",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/backfoot3.mp4",
+      "prompt": "Given this video of a cricket player, rate the shot quality (Good/Bad)"
+    },
+    "llm_response": "The shot quality in the video appears to be good. The player is shown swinging a cricket bat with a follow-through, indicating a proper technique. The background and setting also suggest that the player is in a suitable environment for practicing cricket."
+  },
+  {
+    "timestamp": "2024-10-31T13:35:12.104768",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/frontfoot4.mp4",
+      "prompt": "Given this video of a cricket player, commend on his stance, was it good or bad"
+    },
+    "llm_response": "The stance of the cricket player in the video appears to be good. He is standing with his feet shoulder-width apart, knees slightly bent, and his weight evenly distributed. This stance provides a stable base and allows for quick movement and balance, which are essential for effective batting. Additionally, his grip on the bat and his body position suggest that he is ready to react to the ball's trajectory, which is crucial for making solid contact and scoring runs. Overall, the player's stance looks well-prepared and conducive to a successful play."
+  },
+  {
+    "timestamp": "2024-10-31T13:35:16.377171",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/frontfoot2.mp4",
+      "prompt": "Given this video of a cricket player, commend on his stance, was it good or bad"
+    },
+    "llm_response": "The stance of the cricket player in the video appears to be good. He is standing with his feet shoulder-width apart, which is a common stance for batting. His knees are slightly bent, and his weight is evenly distributed on both feet, which helps maintain balance and stability. Additionally, his body is positioned in a way that allows him to move quickly and react to the ball's trajectory. Overall, this stance is conducive to effective batting and good performance in the game."
+  },
+  {
+    "timestamp": "2024-10-31T13:35:21.251096",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/drive2.mp4",
+      "prompt": "Given this video of a cricket player, commend on his stance, was it good or bad"
+    },
+    "llm_response": "The stance of the cricket player in the video appears to be good. He is holding the bat with both hands, which is a common and effective way to grip the bat. His body is positioned in a way that suggests he is ready to hit the ball, with his knees slightly bent and his weight balanced on both feet. This stance allows for quick and efficient movement to respond to the ball. Overall, the player's stance looks well-prepared and ready for the next play."
+  },
+  {
+    "timestamp": "2024-10-31T13:35:26.118239",
+    "directory_name": "bad",
+    "maxp": "720 * 1280",
+    "fps": 1.0,
+    "dtype": "bfloat16",
+    "context_examples": [],
+    "target": {
+      "video_path": "bad/backfoot3.mp4",
+      "prompt": "Given this video of a cricket player, commend on his stance, was it good or bad"
+    },
+    "llm_response": "The stance of the cricket player in the video appears to be good. He is standing with his feet shoulder-width apart, which is a common stance for batting. His knees are slightly bent, and his weight is evenly distributed on both feet, which helps maintain balance and stability. Additionally, his body is facing the bowler, and his eyes are focused on the ball, indicating good concentration and readiness to react to the incoming ball. Overall, the stance looks well-prepared and balanced, which is essential for effective batting in cricket."
+  }
+]
